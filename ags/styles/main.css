@@ -1,0 +1,13 @@
+.container_main {
+  margin: 15px 20px 0px 20px;
+  background-color: transparent;
+}
+
+label {
+  font-weight: bold;
+}
+
+@import "left.css";
+@import "center.css";
+@import "right.css";
+@import "notifications.css";

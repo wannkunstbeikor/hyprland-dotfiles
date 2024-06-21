@@ -1,0 +1,8 @@
+.client-title {
+    border-radius: 11px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: @borders;
+    padding: 5px;
+    background-color: @theme_base_color;
+}
